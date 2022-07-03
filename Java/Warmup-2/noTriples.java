@@ -9,6 +9,5 @@ public boolean noTriples(int[] nums) {
      return false;
    }
  } 
- 
  return true;
 }
